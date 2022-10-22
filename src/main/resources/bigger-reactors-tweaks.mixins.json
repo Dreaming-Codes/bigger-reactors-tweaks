@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "codes.dreaming.biggerreactorstweaks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "biggerreactorstweaks.refmap.json",
+  "mixins": [
+    "ReactorRegistryMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
