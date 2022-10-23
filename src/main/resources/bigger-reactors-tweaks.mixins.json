@@ -5,7 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "biggerreactorstweaks.refmap.json",
   "mixins": [
-    "ReactorRegistryMixin"
+    "ReactorRegistryMixin",
+    "TurbineRegistryMixin"
   ],
   "client": [
   ],
